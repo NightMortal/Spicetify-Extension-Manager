@@ -1,0 +1,12 @@
+certifi==2024.8.30
+cffi==1.17.1
+charset-normalizer==3.4.0
+cryptography==43.0.3
+idna==3.10
+pycparser==2.22
+PyQt5==5.15.11
+PyQt5-Qt5==5.15.2
+PyQt5_sip==12.15.0
+QScintilla==2.14.1
+requests==2.32.3
+urllib3==2.2.3
